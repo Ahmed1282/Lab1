@@ -1,1 +1,1 @@
-“Hello from main”
+Hello from both branch and main
