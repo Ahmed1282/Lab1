@@ -1,0 +1,2 @@
+Hello from both branch and main
+2nd commit
